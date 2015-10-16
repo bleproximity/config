@@ -1,0 +1,11 @@
+Quiz Question 1<BR>5G is also called ”NX” – why?<BR>1.It’s named after the famous starship in Star Trek.<BR>X. “N” for “number”, “X” for “unknown”.<BR>2. Actually both of the above.
+
+Quiz Question 2<BR>What is the principle before sending on a unlicensed frequency?<BR>1. Talk Before Listen<BR>X. Listen Before Talk<BR>2. Before Listen growl and headbang
+
+Quiz Question 3<BR>What type of information do you find in Lighthouse?<BR>1. Customers’ licenses for Value Packages, Competitive Intelligence, Feature Up-sales Opportunities<BR>X. Hardware, Customers’ licenses for Value Packages, Product Roadmaps<BR>2.The GIIIC festival lineup
+
+Quiz Question 4<BR>What is the model number for the newest Baseband Router from RCI<BR>1. Rockband2-015<BR>X. Baseband T605<BR>2. Baseband R203
+
+Quiz Question 5<BR>Who is requesting Ericsson Response to respond to a disaster?<BR>1. Erifest<BR>X. MSB - Myndigheten för samhällsskydd och beredskap<BR>2. UN
+
+Quiz Question 6<BR>Who should you (formally) contact if you suspect an IT Security incident at the Linköping site?<BR>1. Björn ”The Rocker” Bolling<BR>X. Mikael ”Stonehead” Stenvall<BR>2. Tommy “HeadBanger” Tirfing

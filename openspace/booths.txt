@@ -1,0 +1,69 @@
+1
+DEMO<BR>GWMR -Extended Coverage for Internet of Things (IoT)<BR>Extended coverage software for GSM delivers a 20 dB improvement leading to a seven-fold extension in the range of low-rate applications. This enables the usage of IoT applications in remote locations and deep within buildings underground.
+
+2
+DEMO<BR>
+GWMR UE Control - A multi platform demonstration<BR>Come and see how you can use UE Control in both manual and automated testing with real mobiles. UE Control contains most of the functionality from Mobitec along with a slew of new features such as control of iPhones, improved cell information and running on Linux.
+
+3
+GWMR Troubleshooting Tool Kit<BR>There are significant numbers of Ericsson engineers in disparate locations working with GRAN Support. In many cases each location has its own unique set of tools (some common across locations and some not) used by engineers during analysis activities. We have now released a tool containing parsers, scripts, decoders and smart summaries of the state of the BSC, to simplify the trouble shooting of live nodes.
+https://wcdma-ttk.rnd.ki.sw.ericsson.se/
+
+4
+GWMR From Yesterday to Tomorrow via Today<BR>Learn more about the changes in Way of Working for GSM going from sequential to parallel... by adding Track Management together with the RA Programs (Development) and Release Management. What did we go from? Where are we today? What about the future?<BR>(Connect our changes and improvements with the THIN LAYER GSM, Ericsson's new future direction of GSM which focuses on making operator's network "THIN" or more efficient - spectrum, hardware, power consumption, competence and OPEX.)
+
+5
+Demo<BR>Reseach - Proximity Services based on Bluetooth LE<BR>The EU FP7 TRAX project focuses on large complex systems with positioned entities. We will show results from proximity based positioning in an office area, and will show statistics from the proximity based Android app of Open Space. The app is interacting with a backend based on the Service Enablement Platform (SEP).
+
+6.
+Security - Security Awareness in my daily work<BR>As one of the GIC sites we are in the hot spot as centralization of ICT resources calls for increased levels of security awareness and security measures. How will it impact me, my work environment and my work place, when Global Company security demands are deployed? Ask your questions at our boot.
+
+7.
+LMR - 5G<BR>5G is vital for our future; both for us as a company, as a site and as users! Learn what 5G is about, including what our competitors do and which the top features are. And what does NX mean, anyway?
+
+8.
+LMR - Feature flow<BR>Working with flow is one of our guiding stars. Follow a feature through its development stages and talk to the developers along the way.
+
+9.
+LMR - Architectural challenges and possibilities<BR>The RBS architecture is evolving - find out how and which challenges and possibilities it gives. How can we use multicore most efficiently, for example?
+
+10.
+LMR: Get a Taste of Eiffel<BR>Experience a tasty demo of what Eiffel brings to you.<BR>How is Eiffel used in CI at LMR?<BR>What would you like "Eiffel 2.0" to be in your CI flow?
+
+11.
+Ops North<BR>Learn all about the GIC
+
+12.
+DEMO<BR>Research - 5G Beam forming<BR>We will show what role dynamic beam forming can play in a 5G cellular system. With beam forming, it is possible to provide very high cell-edge bitrates to indoor users on 15GHz carrier frequency using today's site grid, and to provide a substantial increase in the network capacity.
+
+13.
+DEMO<BR>Research - Licensed Assisted Access, LLA<BR>
+LAA is a way for LTE to access and use the unlicensed 5 GHz band.<BR>A key feature of LAA will be fair spectrum sharing and co-existence of LAA-enabled devices with other devices using the same band, such as Wi-Fi. We will show co-existence results between Wi-Fi and LTE, explain some key features like Listen before talk and Exponential backoff.
+
+14.
+PDU RCI - Intelligent Transport systems<BR>Learn more about information handling of city movement using mobile technology.
+
+15.
+PDU RCI - TCDB Test Characteristics DataBase<BR>Connect TCDB to your CI/Test FW and get test result automatically analyzed and evaluated. By storing test limits in TCDB you can reuse the same test cases to run tests with different limits depending on product release or hardware. Monitor how your feature affects the overall product performance during the development. Keep track of trends and analyze test results and share the results across the organization.
+
+16.
+Response<BR>Ericsson Response will show their MBB container. It contains a complete 2G and 3G radio access network along with core network. The container can be deployed in a disaster area to provide voice and data mobile coverage to assist aid workers in the area.
+
+17.
+DEMO<BR>SW Supply - sales tool Lighthouse
+
+18.
+SW Supply<BR>Visit us and see how OUR SW HANDLING ENABLES GROWTH<BR>-Our License Registers role in Ericsson as a SW company<BR>-How to sell SW in the future with Ericsson SW Model
+
+19.
+Research - 5G radio testbed<BR>We will show posters describing the 5G radio testbed. Aspects described include radio frequency/bandwidth, beamforming, dynamic TDD, and dual connectivity with LTE. Potentially there will also be a software simulation of the air interface.
+
+20.
+PDU RCI - Baseband T Products<BR>Radio transport from the cell site to the core network Learn more about our new fully integrated multi standard radio routers.
+
+21.
+PDU RCI -Self-organizing transport networks<BR>Experiments to understand 5G midhaul challenges
+
+Rock Shop
+Prepare for a rainy day or get a festival T-shirt, GIIIC rockshop has all the gear you'll need.
+
