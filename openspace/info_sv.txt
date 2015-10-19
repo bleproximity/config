@@ -1,6 +1,6 @@
 Detta är den officiella appen till Ericsson Open Space 2015 i Linköping.<BR><BR>Ericsson Open Space 2015 ger besökarna en inblick i de olika aktiviteterna på Ericsson R&D Center Linköping. Denna app tillhandahåller positionering inom området och positionsbaserad information om de olika aktiviteterna. Dessutom förmedlas tipsfrågor att besvara på en separat tipslapp, samt bokstäver som ska kastas om för att bilda ett ord.<BR><BR>
 Under kartfliken ges en grov positionering när man är på Open Space. Appen mottager även positioneringsbaserade notifieringar, vilka listas under motsvarande flik. Dessa är dels information (text, bilder, länkar) kopplat till de olika båsen på Open Space, dels tipsfrågor att besvara på en särskild tipslapp, och dels bokstäver. Hittade bokstäver samlas under en särskild flik där man kan flytta runt bokstäverna för att försöka hitta ett ord.<BR><BR>
 Statistik från serversidan presenteras i bås 5. Där kan ni också meddela vilket ord ni hittat.<BR><BR>
-Appen är utvecklad av Benjamin Wiberg, och serversidan av Erik Bertilsson, med stöd och input från Fredrik Gunnarsson och Mats Ahlbom.
+Appen är utvecklad av Benjamin Wiberg, och serversidan av Erik Bertilsson, med stöd och input från Fredrik Gunnarsson, Mats Ahlbom och Daniel Jakobsson.
 
 
