@@ -1,0 +1,5 @@
+Appen är generellt framtagen för att demonstrera hur tidsserier av proximitybaserad information kan användas för positionering. Denna version är specifikt utformad för ER Day, 9 december 2015.<BR><BR>I appens flöde visas viss positionsbaserad information, och grov positionering presenteras under kartfliken.<BR><BR>
+Statistik från serversidan presenteras i bås 20.<BR><BR>
+Appen är utvecklad av Benjamin Wiberg, och serversidan av Erik Bertilsson, med stöd och input från Fredrik Gunnarsson, Mats Ahlbom och Daniel Jakobsson.
+
+

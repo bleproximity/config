@@ -1,0 +1,3 @@
+The app is generically developed to demonstrate how time series of proximity based information can be used for positioning. This specific version is adapted to be used at ER Day, December 9th, 2015.<BR><BR>The flow view of the app presents the flow of received position-based information, and crude positioning is presented under the map tab.<BR><BR>Some real-time statistics is presented at booth 20.<BR><BR>The app has been developed by Benjamin Wiberg, and the server side by Erik Bertilsson, with support and input from Fredrik Gunnarsson, Mats Ahlbom and Daniel Jakobsson.
+
+
