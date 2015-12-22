@@ -1,5 +1,12 @@
 {
      "service": "event2",
-     "title": "Open Space 2016"
+     "title": "Open Space 2016",
+     "tabs": [
+         { "type": "info"},
+         { "type": "map"},
+         { "type": "events"},
+         { "type": "log"},
+         { "type": "letters"}
+     ]
  }
 
