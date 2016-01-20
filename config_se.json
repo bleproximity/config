@@ -1,0 +1,15 @@
+{
+     "service": "event2",
+     "title": "Open Space 2016",
+     "sections": [
+         { "type": "info", "name": "Information"},
+         { "type": "notifications", "name": "Notiser"},
+         { "type": "map", "name": "Karta"},
+         { "type": "letters", "name": "Bokstavsjakt"}
+     ],
+     "information": ["Appen är generellt framtagen för att demonstrera hur tidsserier av proximitybaserad information kan användas för positionering. Denna version är specifikt utformad för ER Day, 9 december 2015.",
+     "I appens flöde visas viss positionsbaserad information, och grov positionering presenteras under kartfliken.",
+     "Statistik från serversidan presenteras i bås 20.",
+     "Appen är utvecklad av Benjamin Wiberg, och serversidan av Erik Bertilsson, med stöd och input från Fredrik Gunnarsson, Mats Ahlbom och Daniel Jakobsson."
+     ]
+}
