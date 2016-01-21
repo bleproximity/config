@@ -1,6 +1,6 @@
 {
      "service": "event2",
-     "hasCustomIcon": "true"
+     "customIcon": "check.png"
      "title": "Open Space 2016",
      "sections": [
          { "type": "info", "name": "Information"},
